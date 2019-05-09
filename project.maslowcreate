@@ -10,18 +10,18 @@
             "topLevel": true,
             "allAtoms": [
                 {
-                    "atomType": "RegularPolygon",
-                    "name": "RegularPolygon",
-                    "x": 185,
-                    "y": 160,
-                    "uniqueID": 828455,
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 214,
+                    "y": 146,
+                    "uniqueID": 460761,
                     "ioValues": [
                         {
-                            "name": "number of sides",
-                            "ioValue": 6
+                            "name": "x length",
+                            "ioValue": 10
                         },
                         {
-                            "name": "radius",
+                            "name": "y length",
                             "ioValue": 10
                         }
                     ]
@@ -51,7 +51,7 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 828455,
+                    "ap1ID": 460761,
                     "ap2ID": 188513
                 },
                 {
