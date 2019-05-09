@@ -164,6 +164,27 @@
                             "ioValue": 10
                         }
                     ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": null,
+                    "y": null,
+                    "uniqueID": 222915,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
                 }
             ],
             "allConnectors": [
