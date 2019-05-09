@@ -10,19 +10,19 @@
             "topLevel": true,
             "allAtoms": [
                 {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 203,
-                    "y": 148,
-                    "uniqueID": 394884,
+                    "atomType": "RegularPolygon",
+                    "name": "RegularPolygon",
+                    "x": 185,
+                    "y": 160,
+                    "uniqueID": 828455,
                     "ioValues": [
+                        {
+                            "name": "number of sides",
+                            "ioValue": 6
+                        },
                         {
                             "name": "radius",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "max segment size",
-                            "ioValue": 1
                         }
                     ]
                 },
@@ -51,7 +51,7 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 394884,
+                    "ap1ID": 828455,
                     "ap2ID": 188513
                 },
                 {
